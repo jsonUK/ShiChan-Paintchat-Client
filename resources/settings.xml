@@ -1,0 +1,122 @@
+<?xml version='1.0' standalone='yes'?>
+<root>
+<tools>
+	<tool
+		index="0"
+		icon="pen"
+		name="Pen"
+		ipen="1"
+		isanti="1"
+		penm="0"
+		ialpha="120"	
+	/>
+	
+	<tool
+		index="1"
+		icon="pencil"
+		name="Pencil"
+		ipen="0"
+	/>
+	<tool
+		index="2"
+		icon="water01"
+		name="Water"
+		ipen="2"
+		icount="-4"
+		penm="2"
+		isize="9"
+		ialpha="98"
+		iscount="0"
+	/>	
+	<tool
+		index="3"
+		icon="water02"
+		name="Water2"
+		ipen="3"
+		ipenm="1"
+		iSize="9"
+		iAlpha="128"
+		iscount="0"
+	/>
+	<tool
+		index="4"
+		icon="airbrush"
+		name="Air Brush"
+		ipen="2"
+		ipenm="2"
+		isize="12"
+		ialpha="64"		
+	/>	
+	<tool
+		index="5"
+		icon="eraser02"
+		name="Hard Eraser"
+		ipen="4"
+		icount="-3"
+		isize="13"		
+	/>
+	<tool
+		index="6"
+		icon="eraser01"
+		name="Soft Eraser"
+		ipen="5"
+		icount="-3"
+		ipenm="0"
+		isize="13"
+		iscount="0"		
+	/>
+	
+	<tool
+		index="7"
+		icon="dodge"
+		name="Dodge"
+		ipen="6"
+		ipenm="2"
+		isize="5"
+		ialpha="128"		
+	/>
+	
+	<tool
+		index="8"
+		icon="burn"
+		name="Burn"
+		ipen="7"
+		ipenm="2"
+		isize="5"
+		ialpha="128"		
+	/>
+	
+	<tool
+		index="9"
+		icon="blur"
+		name="Blur"
+		ipen="8"
+		ipenm="0"
+		isize="10"
+		ialpha="128"
+		icount="-5"
+		isover="1"		
+	/>	
+</tools>
+<!-- 
+t11=iPen=1;isAnti=1;iPenM=1;iAlpha=120;
+t12=iPen=2;iCount=-4;iPenM=2;iSize=9;iAlpha=98;isCount=0
+t13=iPen=3;iPenM=1;iSize=9;iAlpha=128;isCount=0
+t14=iPen=2;iPenM=2;iSize=12;iAlpha=64
+t15=iPen=4;iCount=-3;iSize=13
+t16=iPen=5;iCount=-3;iPenM=2;iSize=13;isCount=0;
+t17=iPen=6;iPenM=2;iSize=5;iAlpha=128;
+t18=iPen=7;iPenM=2;iSize=5;iAlpha=128;
+t19=iPen=8;iCount=-5;iPenM=2;iSize=10;iAlpha=128;isOver=1
+t110=iPen=2;iPenM=3;iAlpha=164;iCount=-35;isCount=1
+
+
+t20=iHint=9
+t21=iHint=3;iPen=17
+t22=iHint=3;iPen=18
+t23=iHint=3;iPen=19
+t24=iHint=8
+t25=iHint=10
+ -->
+
+</root>

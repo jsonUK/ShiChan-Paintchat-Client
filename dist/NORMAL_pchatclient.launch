@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.javaApplet">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/pchat3.56cw/src/paintchat_client/Client.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<intAttribute key="org.eclipse.jdt.launching.APPLET_HEIGHT" value="900"/>
+<stringAttribute key="org.eclipse.jdt.launching.APPLET_NAME" value=""/>
+<mapAttribute key="org.eclipse.jdt.launching.APPLET_PARAMETERS">
+<mapEntry key="MAYSCRIPT" value="true"/>
+<mapEntry key="client_image_height" value="1400"/>
+<mapEntry key="client_image_width" value="2400"/>
+<mapEntry key="dir_resource" value="./"/>
+<mapEntry key="exit" value="index.html"/>
+<mapEntry key="layer_count" value="3"/>
+<mapEntry key="nick" value="test"/>
+<mapEntry key="res.zip" value="res.zip"/>
+<mapEntry key="scriptable" value="true"/>
+<mapEntry key="server_host" value="localhost"/>
+<mapEntry key="server_id" value="server0"/>
+<mapEntry key="server_port" value="31235"/>
+<mapEntry key="tools" value="normal"/>
+<mapEntry key="tp.au" value="_"/>
+<mapEntry key="tt.zip" value="tt_def.zip"/>
+</mapAttribute>
+<intAttribute key="org.eclipse.jdt.launching.APPLET_WIDTH" value="900"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="paintchat_client.Client"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="pchat3.56cw"/>
+</launchConfiguration>

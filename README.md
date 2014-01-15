@@ -1,4 +1,6 @@
 ShiChan-Paintchat-Client
 ========================
 
-Original source files for Shi-Chan Paintchat Client
+The original Shi-Chan PaintChat files modified by Rift.
+
+Please feel free to send pull requests.
